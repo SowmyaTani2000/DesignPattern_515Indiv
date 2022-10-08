@@ -1,3 +1,3 @@
-public class UserInfoItem {
+public class UserinfoItem {
 
 }
