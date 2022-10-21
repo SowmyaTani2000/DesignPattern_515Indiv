@@ -6,7 +6,6 @@
       <change beforePath="$PROJECT_DIR$/../facade/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/../facade/Login.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../iterator/NodeVisitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../iterator/NodeVisitor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../iterator/ProductIterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../iterator/ProductIterator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NodeVisitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/NodeVisitor.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +41,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1666320519078</updated>
-      <workItem from="1666320520422" duration="2010000" />
+      <workItem from="1666320520422" duration="3962000" />
     </task>
     <servers />
   </component>
