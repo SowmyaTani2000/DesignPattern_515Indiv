@@ -85,7 +85,7 @@ System.out.println("user created...");
 		f=new JFrame();
 
 		String products = "";
-		File myObj = new File("C:\\Users\\Sowmya\\Downloads\\ProductInfo.txt");
+		File myObj = new File("ProductInfo.txt");
 		Scanner myReader = new Scanner(myObj);
 		while (myReader.hasNextLine()) {
 			String data = myReader.nextLine();
